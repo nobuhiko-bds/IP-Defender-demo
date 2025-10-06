@@ -40,6 +40,6 @@ public class SecurePasswords extends Lesson {
 
   @Override
   public String getTitle() {
-    return "secure-passwords.title";
+    return "secure-passwords.title2";
   }
 }
